@@ -41,9 +41,26 @@ Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 ---
 
 ## Structure
+```
 ├── data/
 ├── notebooks/
 │ ├── 01_data_loading_filtering.ipynb
 │ ├── 02_feature_engineering.ipynb
 │ ├── 03_modeling_and_evaluation.ipynb
 ├── README.md
+```
+
+---
+
+## Conclusion
+
+This project demonstrates how machine learning can be used not just to model outcomes, but to better understand the statistical drivers behind them. While attacking metrics like expected goals consistently dominate, the degree to which performance translates into results varies across leagues, highlighting meaningful differences in predictability and playstyle.
+
+---
+
+## Future Improvements
+
+- Incorporate additional features (team strength, player-level data, etc.)  
+- Expand analysis to more leagues and seasons  
+- Apply cross-validation for more robust evaluation  
+- Explore more advanced models while maintaining interpretability  
