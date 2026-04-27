@@ -41,3 +41,9 @@ Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 ---
 
 ## Structure
+├── data/
+├── notebooks/
+│ ├── 01_data_loading_filtering.ipynb
+│ ├── 02_feature_engineering.ipynb
+│ ├── 03_modeling_and_evaluation.ipynb
+├── README.md
